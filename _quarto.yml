@@ -3,16 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "pa446examplewebsite"
+  title: "PA 446 Quarto Website"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - pa446syllabus.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#9C3C27"
+    linkcolor: "#ff33f0"
+    monofont: courier new
     css: styles.css
     toc: true
 

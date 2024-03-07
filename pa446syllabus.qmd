@@ -1,0 +1,14 @@
+---
+title: "PA 446 Syllabus"
+editor: visual
+---
+
+# Week 1
+
+Introductions
+
+# Week 2
+
+-   Civic tech
+
+-   Github

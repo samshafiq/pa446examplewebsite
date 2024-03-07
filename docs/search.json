@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "PA 446 Example Website",
+    "title": "Saman Shafiq",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Add anyother text.\n\n  \n    \n\n    \n  \n    \n     Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     resume\n  \n\n  \n  \nThis is PA 446. We are learning about coding for civic data applications.\n\n\n\nWe are based at UIC"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "pa446syllabus.html",
+    "href": "pa446syllabus.html",
+    "title": "PA 446 Syllabus",
+    "section": "",
+    "text": "Week 1\nIntroductions\n\n\nWeek 2\n\nCivic tech\nGithub"
   }
 ]

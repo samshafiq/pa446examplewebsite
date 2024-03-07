@@ -1,11 +1,30 @@
 ---
-title: "PA 446 Example Website"
+title: "Saman Shafiq"
+image: uicpic.png
+resources: resume.pdf
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelop
+      href: mailto:noreply@email.zz
+    - text: GitHub
+      icon: github
+      href: https://github.com/
+    - text: resume
+      icon: file-text
+      href: resume.pdf
+  id: ppc
 ---
 
-This is a Quarto website.
+Add anyother text.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::{#ppc}
+This is PA 446.
+We are learning about coding for civic data applications. 
 
-```{r}
-1 + 1
-```
+![We are based at UIC](atuic.png)
+
+:::
