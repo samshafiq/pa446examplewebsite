@@ -19,7 +19,7 @@ about:
   id: ppc
 ---
 
-Add anyother text.
+Text above the template formatting.
 
 :::{#ppc}
 This is PA 446.
@@ -28,3 +28,6 @@ We are learning about coding for civic data applications.
 ![We are based at UIC](atuic.png)
 
 :::
+
+Text below the template formatting.
+
