@@ -2,6 +2,7 @@
 title: "Saman Shafiq"
 image: uicpic.png
 resources: resume.pdf
+pdf: "resume.pdf"
 about: 
   template: trestles
   image-shape: round
