@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  resources: resume.pdf
 
 website:
   title: "PA 446 Quarto Website"
