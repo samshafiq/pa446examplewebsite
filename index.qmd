@@ -1,6 +1,7 @@
 ---
 title: "Saman Shafiq"
 image: uicpic.png
+resources: resume.pdf
 about: 
   template: trestles
   image-shape: round
@@ -14,7 +15,7 @@ about:
       href: https://github.com/
     - text: resume
       icon: file-text
-      href: https://github.com/samshafiq/samshafiq.github.io/blob/main/resume.pdf
+      href: resume.pdf
   id: ppc
 ---
 
