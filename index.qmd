@@ -14,7 +14,7 @@ about:
       href: https://github.com/
     - text: resume
       icon: file-text
-      href: https://github.com/samshafiq/pa446examplewebsite/blob/main/docs/resume.pdf
+      href: https://github.com/samshafiq/samshafiq.github.io/blob/main/resume.pdf
   id: ppc
 ---
 
